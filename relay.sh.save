@@ -1,2 +1,0 @@
-echo -en '\xa0\x01\x01\xa2' | dd of=/dev/ttyUSB0xxy
-
